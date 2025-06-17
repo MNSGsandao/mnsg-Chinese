@@ -1,0 +1,2 @@
+^https:\/\/minasigo-no-shigoto-pd-c-res\.orphans-order\.com\/(\d+(?:\.\d+)*\/[^.]+[^.]*\.txt)$,regex,redirect
+regexSubstitution:http://localhost:13448/\1
